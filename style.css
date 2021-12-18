@@ -1,0 +1,18 @@
+body{
+    background: rgb(255,198,247);
+    background: linear-gradient(90deg, rgba(255,198,247,1) 0%, rgba(126,237,240,1) 48%, rgba(190,244,134,1) 100%);
+}
+
+h1{
+    color: red
+}
+
+
+p{
+    font-size: 20px;
+}
+
+.container{
+    border: 2px dotted rgb(228, 87, 87);
+    border-radius: 5%;
+}
